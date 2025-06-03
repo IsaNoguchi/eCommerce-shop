@@ -2,16 +2,6 @@
 
 This repository contains the source code for a E-commerce website built using React.js, CSS, and Redux. This README.md file provides an overview of the project and instructions on how to set it up and customize it for your own use.
 
-[![Stars](https://img.shields.io/github/stars/nixrajput/ecommerce-web-reactjs?label=Stars&style=flat)][repo]
-[![Forks](https://img.shields.io/github/forks/nixrajput/ecommerce-web-reactjs?label=Forks&style=flat)][repo]
-[![Watchers](https://img.shields.io/github/watchers/nixrajput/ecommerce-web-reactjs?label=Watchers&style=flat)][repo]
-[![Contributors](https://img.shields.io/github/contributors/nixrajput/ecommerce-web-reactjs?label=Contributors&style=flat)][repo]
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/nixrajput/ecommerce-web-reactjs?label=Last+Commit&style=flat)][repo]
-[![GitHub issues](https://img.shields.io/github/issues/nixrajput/ecommerce-web-reactjs?label=Issues&style=flat)][issues]
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/nixrajput/ecommerce-web-reactjs?label=Pull+Requests&style=flat)][pulls]
-[![GitHub Licence](https://img.shields.io/github/license/nixrajput/ecommerce-web-reactjs?label=Licence&style=flat)][license]
-
 ## Table of Contents
 
 - [E-commerce Website with React.js, CSS, and Redux](#e-commerce-website-with-reactjs-css-and-redux)
@@ -136,21 +126,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Connect With Me
 
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
-[![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
+[![GitHub: isanoguchi](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
+[![Telegram: isanoguchi](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
+[![Gmail: isanoguchi903@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
 
-[github]: https://github.com/nixrajput
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[telegram]: https://telegram.me/nixrajput
-[gmail]: mailto:nkr.nikhil.nkr@gmail.com
+[github]: https://github.com/isanoguchi
+[telegram]: https://telegram.me/Renzo0801
+[gmail]: mailto:isanoguchi903@gmail.com
 
-[repo]: https://github.com/nixrajput/ecommerce-web-reactjs
-[issues]: https://github.com/nixrajput/ecommerce-web-reactjs/issues
-[pulls]: https://github.com/nixrajput/ecommerce-web-reactjs/pulls
-[license]: https://github.com/nixrajput/ecommerce-web-reactjs/blob/master/LICENSE.md
+[repo]: https://github.com/isanobuchi/ecommerce-web-reactjs
+[issues]: https://github.com/isanobuchi/ecommerce-web-reactjs/issues
+[pulls]: https://github.com/isanobuchi/ecommerce-web-reactjs/pulls
+[license]: https://github.com/isanobuchi/ecommerce-web-reactjs/blob/master/LICENSE.md
