@@ -115,20 +115,3 @@ If you would like to contribute to this project, feel free to fork the repositor
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Sponsor Me
-
-- By sponsoring my efforts, you're not merely contributing to the development of my projects; you're investing in its growth and sustainability.
-- Your support empowers me to dedicate more time and resources to improving the project's features, addressing issues, and ensuring its continued relevance in the rapidly evolving landscape of technology.
-- Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community.
-- Thank you for considering sponsoring my work!
-
-## Connect With Me
-
-[github]: https://github.com/isanoguchi
-[telegram]: https://telegram.me/Renzo0801
-[gmail]: mailto:isanoguchi903@gmail.com
-
-[repo]: https://github.com/isanobuchi/ecommerce-web-reactjs
-[issues]: https://github.com/isanobuchi/ecommerce-web-reactjs/issues
-[pulls]: https://github.com/isanobuchi/ecommerce-web-reactjs/pulls
-[license]: https://github.com/isanobuchi/ecommerce-web-reactjs/blob/master/LICENSE.md
